@@ -1,0 +1,70 @@
+.nav-wrapper {
+    background-color: black;
+    border: white solid 1px;
+}
+.fa-pulse {
+    color: firebrick;
+}
+
+.display-4 {
+    color: snow;
+    font-size: 80px; 
+}
+.jumbotron {
+    padding: 2rem 1rem;
+    text-align: center;
+    /* font-size: 80px; */
+    background-image: url(https://thumbs.gfycat.com/AdmiredImpressiveJohndory-max-1mb.gif);
+    border-radius: .3rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    /* margin: 10%; */
+}
+.btn {
+    background-color: rgb(189, 101, 72)
+   }
+#clickBegin {
+    text-align: center;
+    margin-bottom: 3%;
+}
+.modal-trigger {
+    margin-right: 45%;
+   margin-left: 45%;
+    margin-bottom: 2%;
+}
+
+.page-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;   
+ }
+
+ #foods {
+
+    background-color: rgb(248, 205, 190);
+    border: solid red 1px;
+    /* text-decoration: lightcoral; */
+    text-align: center;
+    text-size-adjust: 20pts ;
+}
+#workout {
+    background-color: rgb(248, 205, 190);
+    border: solid red 1px;
+    /* text-decoration: lightcoral; */
+    text-align: center;
+    text-size-adjust: 20pts ; 
+    float: right;
+}
+h2 {
+    /* background-color: lawngreen; */
+    color: lightcoral;
+}
+/* .yearn {
+   
+}
+.burn {
+    float: right;
+} */
